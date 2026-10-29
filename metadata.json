@@ -1,0 +1,8 @@
+{
+  "name": "Remix AgriCare AI - কৃষি কেয়ার এআই",
+  "description": "AI-assisted Agricultural Decision Support System for farmers in Bangladesh. Brand-neutral, verified dose engine, officer verification workflow, and explainable agricultural diagnosis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
